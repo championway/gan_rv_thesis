@@ -1,8 +1,8 @@
 # Generative Adversarial Networks for Real-robot Missions
 
-### Informations
+# Informations
 - Author: [Pin-Wei "David" Chen](http://championway.github.io/)
-- Thesis: [Website](https://championway.github.io/thesis/index.html) [PDF](https://championway.github.io/pdf/nctu_thesis_david.pdf)
+- Thesis: [Website](https://championway.github.io/thesis/index.html), [PDF](https://championway.github.io/pdf/nctu_thesis_david.pdf)
 
 # Development Environment
 - Ubuntu 16.04
